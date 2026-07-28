@@ -4,7 +4,7 @@ A collection of complete Python projects I've built, showcasing what I can creat
 
 ## Projects
 
--qr_code_with_code.py — generates a QR code from a URL and saves it as a PNG image
+(https://github.com/NikhilRajB5/Python_Projects/blob/main/qr_code_with_code.py)  generates a QR code from a URL and saves it as a PNG image
 
 More projects will be added here as I continue learning and building.
 
